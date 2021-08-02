@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Delia Sahuquillo
+Main-Class: Bienvenida
+X-COMMENT: Curso Java con La Geekipedia De Ernesto
